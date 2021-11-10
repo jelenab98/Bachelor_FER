@@ -11,6 +11,6 @@ Korištena je biblioteka PyTorch, a sama evaluacija i treniranje je provedeno na
 Bachelor thesis : Semantic segmentation of road lanes
 --
 
-Bachelor thesis under the mentorship of prof. Siniša Šegvić, phD at the Faculty of Electrical Enigneering and Computing in the academic year 2019/2020
+Bachelor thesis under the mentorship of prof. Siniša Šegvić, PhD at the Faculty of Electrical Enigneering and Computing in the academic year 2019/2020
 
 Semantic segmentation of road lanes was conducted on the LLAMAS dataset (Summary and files available on https://unsupervised-llamas.com/llamas/index). Jupyter notebooks used to train the model are provided, as well as the same code in .py format. Model was implemented using PyTorch library and Python 3.7. Evaluation and training were conducted on the Google Colaboratoy platform (GPU NVIDIA TESLA K80).
